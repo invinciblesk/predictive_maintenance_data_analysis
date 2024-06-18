@@ -1,1 +1,1 @@
-# predictive_meintenance_data_analysis
+# predictive_maintenance_data_analysis
