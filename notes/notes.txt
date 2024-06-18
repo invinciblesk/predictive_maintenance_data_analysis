@@ -1,0 +1,3 @@
+https://archive.ics.uci.edu/dataset/601/ai4i+2020+predictive+maintenance+dataset
+
+under src directory, run: python main.py --data_path ../data/predictive_maintenance.csv --output_dir ../output
